@@ -46,7 +46,7 @@ Below are some sample plots generated from the simulation and visualized using T
 ![Streamfunction Contours](https://github.com/maharajkumar7-sketch/CFD-Project/blob/main/streamlines_Re100.png)
 
 ### Vorticity Contours(Re_100)
-![Vorticity Contours](lid_driven/PLOTS/VORTICITY/vorticity_contoursRe_100.png).
+![Vorticity Contours](https://github.com/maharajkumar7-sketch/CFD-Project/blob/main/vorticity_contoursRe_100.png).
 
 ## Reference
 
