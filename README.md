@@ -1,4 +1,4 @@
-# CFD-Project# 2D Lid-Driven Cavity Flow Simulation
+# 2D Lid-Driven Cavity Flow Simulation
 
 This project implements a 2D lid-driven cavity flow simulation using the finite difference method. The solution is based on the streamfunction-vorticity formulation of the incompressible Navier–Stokes equations.
 
